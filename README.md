@@ -5,6 +5,6 @@ Projet de 3 jours à faire en groupe
 2. Prendre connaissance du wireframe
 3. Prendre connaisance de la maquette
 4. prendre connaise des données et de leurs format
-5. lister les fonctionnakités
+5. lister les fonctionnalités
 
 
