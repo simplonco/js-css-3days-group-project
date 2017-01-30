@@ -63,3 +63,46 @@ Réaliser un prototype de site internet sous forme de single page que nous prés
 
 ### Livraison du site :
 Un événement étant prévu le mardi 7 février au cours duquel nous présenterons le futur site internet du restaurant, le projet doit être impérativement livré la veille, le lundi 6 février.
+
+## Les groupes
+
+GROUPE 1 :
+Osmanah
+gigimay (Ghunbot)
+adamska27
+curtis1901rousseau
+
+GROUPE 2 :
+claireeee
+jeffpash
+Paljor129
+evilzan
+
+GROUPE 3 :
+Gambadeur
+Fausto95
+fdanielsin
+nitramnoe
+
+GROUPE 4 :
+PaulPourtout
+Tandi10
+divade
+zazasdk
+
+GROUPE 5 :
+roula-w
+MehdiDr
+foussenii
+
+GROUPE 6 :
+HilalBgm
+HavahLT (Laurianne)
+jobalouk
+
+GROUPE 7 :
+sadiaa
+ionMoraru
+Yjacka
+
+
