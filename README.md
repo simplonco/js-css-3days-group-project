@@ -1,40 +1,65 @@
 # js-css-3days-group-project
 Projet de 3 jours à faire en groupe
 
-1. Trouver le sujet
-2. lire le brief avec attention
-3. Prendre connaissance du wireframe
-4. Prendre connaisance de la maquette
-5. prendre connaise des données et de leurs format
-6. lister les fonctionnalités
+## consignes :
 
+(projet à réaliser en groupe)
 
-Objectfs =>
+Faire un "single page" respectant le brief et le wireframe en utilisant les données présentes dans data/data.js.
+
+### Methodologie de travail à utiliser :
+
+- peer-programming
+- Kanban
+
+### contraintes :
+
+- la page doit comprendre au minimum tous les éléments présents dans le wireframe et respecter la mise en page de celui-ci. Vous pouvez ajouter des éléments ou prendre des libertés dans la mise en page. chaque ajout ou évolution doit être argumenté et justifié au cours de la présentation de votre projet.
+- la page doit utiliser les données fournis : si je met à jour le fichier data/data.js en respectant le format des données (par ex. je change le nom du restaurant), le site doit continuer à fonctionner et doit présenter les données mises à jour du fichier.
+- La page doit hébergé sur github et doit être accessible via une url (ex. [https://simplonco.github.io/js-basic-skillList/](https://simplonco.github.io/js-basic-skillList/))
+
+### Étape 1 :
+- prendre connaissance collectivement du brief (ci-dessous) et du wireframe (cf. wireframe.pdf) et du contenu devant être utilisé (data/data.js)
+
+### Étape 2 :
+- Découper le projet en tâches à effectuer
+- Mettre en place le Kanban
+- Se repartir en 2 groupes de 2 pour travailler en peer-programming et assigner à chaque groupe des tâches (cf. kanban)
+
+### Étape 3 :
+- mettre en place l'environnement de travail : github collaboratif (un qui créer le repo et invite ses collaborateurs)
+
+### Étape 4:
+- réalisation du single page
+
+### Étape 5:
+- présentation de votre projet (lundi 6 février)
 
 -----------
 
-Groupe de 4 : 2 en peer programming
-Un repo collaboratif : Travailler en groupe avec github
-Contraintes design : un wireframe
+## Brief :
 
------------
+### Client : le restaurant "la grande bouffe"
 
-Le sujet resto en ligne
-Resto - online :
-Une liste de plats imposées
+### Contexte :
 
----------
+Dans un marché hyper concurrentiel, le restaurant souhaite proposer un nouveau service à ses clients : la commande en ligne de plats préparés.
 
-1. afficher la liste des produits
+### Objectif
+Réaliser un prototype de site internet sous forme de single page que nous présenterons à toute notre équipes et partenaires le mardi 7 février.
 
-Actions :
-- ajouter un produit au panier
-- supprimer un produit du panier
+### contenu du site :
 
-2. afficher le pannier :
-  - par ligne : nom du plat, prix unitaire, nbre de commande (de ce plat), prix total pour ce plat
-  - Dernioere ligne : prix total de la commade
+* nous désirons un site single-page
+* La page doit comporter :
+  * un header reprenant le nom du site et notre baseline (cf. wireframe)
+  * 3 sections : accueil, carte, contact avec un google map (cf. wireframe)
+  * un panier dans lequel on ajoute et un supprime des plats (cf. wireframe)
 
+### Documents à disposition :
 
+* [wireframe](wireframe.pdf)
+* [données](data/data.js)
 
-
+### Livraison du site :
+Un événement étant prévu le mardi 7 février au cours duquel nous présenterons le futur site internet du restaurant, le projet doit être impérativement livré la veille, le lundi 6 février.
