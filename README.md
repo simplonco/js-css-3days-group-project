@@ -78,7 +78,7 @@ jeffpash
 Paljor129
 evilzan
 
-GROUPE 3 :
+GROUPE 3 : https://fdanielsin.github.io/js-css-3days-group-project/
 Gambadeur
 Fausto95
 fdanielsin
