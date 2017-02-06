@@ -67,13 +67,13 @@ Un événement étant prévu le mardi 7 février au cours duquel nous présenter
 ## Les groupes
 
 GROUPE 1 : https://lagrandebouffe.github.io/La-grande-bouffe/
-Osmanah
-gigimay (Ghunbot)
-adamska27
-curtis1901rousseau
+* Osmanah
+* gigimay (Ghunbot)
+* adamska27
+* curtis1901rousseau
 
 GROUPE 2 :
-claireeee
+* claireeee
 jeffpash
 Paljor129
 evilzan
@@ -90,12 +90,12 @@ Tandi10
 divade
 zazasdk
 
-GROUPE 5 :
+GROUPE 5 : https://hilalbgm.github.io/ProjetGertrude/
 roula-w
 MehdiDr
 foussenii
 
-GROUPE 6 :
+GROUPE 6 : https://evilzan.github.io/lagrandebouffe/#
 HilalBgm
 HavahLT (Laurianne)
 jobalouk
