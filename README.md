@@ -66,7 +66,7 @@ Un événement étant prévu le mardi 7 février au cours duquel nous présenter
 
 ## Les groupes
 
-GROUPE 1 :
+GROUPE 1 : https://lagrandebouffe.github.io/La-grande-bouffe/
 Osmanah
 gigimay (Ghunbot)
 adamska27
