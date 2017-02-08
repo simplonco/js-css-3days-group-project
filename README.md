@@ -46,7 +46,7 @@ Faire un "single page" respectant le brief et le wireframe en utilisant les donn
 Dans un marché hyper concurrentiel, le restaurant souhaite proposer un nouveau service à ses clients : la commande en ligne de plats préparés.
 
 ### Objectif
-Réaliser un prototype de site internet sous forme de single page que nous présenterons à toute notre équipe et à nos partenaires le mardi 7 février.
+Réaliser un prototype de site internet sous forme de single page que nous présenterons à toute notre équipe et à nos partenaires le lundi 13 février.
 
 ### contenu du site :
 
@@ -62,12 +62,47 @@ Réaliser un prototype de site internet sous forme de single page que nous prés
 * [données](data/data.js)
 
 ### Livraison du site :
-Un événement étant prévu le mardi 7 février au cours duquel nous présenterons le futur site internet du restaurant, le projet doit être impérativement livré la veille, le lundi 6 février.
+Un événement étant prévu le lundi 13 février à 15h au cours duquel nous présenterons le futur site internet du restaurant, le projet doit être impérativement livré la veille, le lundi 6 février.
 
 ## Les groupes
 
-GROUPE 1 : 
-*
-*
-*
-*
+G1
+* Bintou
+* Soufiane
+* Malawi
+* Dylan
+
+G2
+* Dounia
+* Pira
+* Ousmane
+* Loic
+
+G3
+* Dadou
+* Helene
+* Stephane L
+* Nedjim
+
+G4
+* Nasserdine
+* Abdoulaye
+* Stephane B
+* Mike
+
+G5
+* Yassine
+* Boris
+* Daphné
+
+G6
+* Nessima
+* Larisa
+* Hassan
+
+G7
+* Desirée
+* Charlotte
+* Eric
+
+
