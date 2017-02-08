@@ -66,6 +66,32 @@ Un événement étant prévu le lundi 13 février à 15h au cours duquel nous pr
 
 ## Les groupes
 
+Dounia
+Stephane L
+Loic
+Hassan
+Mike
+Pira
+Daphné
+Bintou
+Helene
+Nasserdine
+Dylan
+Yassine
+Stephane B
+Soufiane
+Dadou
+Nessima
+Malawi
+Ousmane
+Eric
+Abdoulaye
+Desirée
+Boris
+Nedjim
+Charlotte
+Larisa
+
 GROUPE 1 : 
 *
 *
