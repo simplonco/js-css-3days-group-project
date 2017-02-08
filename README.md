@@ -67,42 +67,42 @@ Un événement étant prévu le lundi 13 février à 15h au cours duquel nous pr
 ## Les groupes
 
 G1
-Bintou
-Soufiane
-Malawi
-Dylan
+* Bintou
+* Soufiane
+* Malawi
+* Dylan
 
 G2
-Dounia
-Pira
-Ousmane
-Loic
+* Dounia
+* Pira
+* Ousmane
+* Loic
 
 G3
-Dadou
-Helene
-Stephane L
-Nedjim
+* Dadou
+* Helene
+* Stephane L
+* Nedjim
 
 G4
-Nasserdine
-Abdoulaye
-Stephane B
-Mike
+* Nasserdine
+* Abdoulaye
+* Stephane B
+* Mike
 
 G5
-Yassine
-Boris
-Daphné
+* Yassine
+* Boris
+* Daphné
 
 G6
-Nessima
-Larisa
-Hassan
+* Nessima
+* Larisa
+* Hassan
 
 G7
-Desirée
-Charlotte
-Eric
+* Desirée
+* Charlotte
+* Eric
 
 
