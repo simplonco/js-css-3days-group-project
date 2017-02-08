@@ -66,43 +66,8 @@ Un événement étant prévu le mardi 7 février au cours duquel nous présenter
 
 ## Les groupes
 
-GROUPE 1 : https://lagrandebouffe.github.io/La-grande-bouffe/
-* Osmanah
-* gigimay (Ghunbot)
-* adamska27
-* curtis1901rousseau
-
-GROUPE 2 : https://evilzan.github.io/lagrandebouffe/#
-* claireeee
-* jeffpash
-* Paljor129
-* evilzan
-
-GROUPE 3 : https://fdanielsin.github.io/js-css-3days-group-project/
-* Gambadeur
-* Fausto95
-* fdanielsin
-* nitramnoe
-
-GROUPE 4 : https://paulpourtout.github.io/js-css-groupe-project-01/
-* PaulPourtout
-* Tandi10
-* divade
-* zazasdk
-
-GROUPE 5 : 
-* roula-w
-* MehdiDr
-* foussenii
-
-GROUPE 6 : https://hilalbgm.github.io/ProjetGertrude/
-* HilalBgm
-* HavahLT (Laurianne)
-* jobalouk
-
-GROUPE 7 :
-* sadiaa
-* ionMoraru
-* Yjacka
-
-
+GROUPE 1 : 
+*
+*
+*
+*
