@@ -83,6 +83,7 @@ G3
 * Helene
 * Stephane L
 * Nedjim
+* Nessima
 
 G4
 * Nasserdine
@@ -94,15 +95,11 @@ G5
 * Yassine
 * Boris
 * Daphné
-
-G6
-* Nessima
-* Larisa
 * Hassan
 
 G7
 * Desirée
 * Charlotte
 * Eric
-
+* Larisa
 
